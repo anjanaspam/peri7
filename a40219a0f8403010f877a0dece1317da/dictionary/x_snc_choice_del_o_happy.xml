@@ -1,11 +1,3 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="Happy" max_length="40" name="x_snc_choice_del_o_happy" type="collection">
-        <element choice="1" label="Happy" max_length="40" name="happy" type="choice">
-            <choice>
-                <element inactive_on_update="false" label="one" value="one"/>
-                <element inactive_on_update="false" label="three" value="three"/>
-                <element inactive_on_update="false" label="two" value="two"/>
-            </choice>
-        </element>
-    </element>
+    <element label="Happy" max_length="40" name="x_snc_choice_del_o_happy" type="collection"/>
 </database>
