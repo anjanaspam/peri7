@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_choice_del_o.happy_user" name="x_snc_choice_del_o.happy_user">32125920f8403010f877a0dece13177a</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-07 18:47:37</sys_created_on>
+        <sys_id>83125920f8403010f877a0dece13177e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>32125920f8403010f877a0dece13177a</sys_name>
+        <sys_package display_value="choice_del_one" source="x_snc_choice_del_o">a40219a0f8403010f877a0dece1317da</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="choice_del_one">a40219a0f8403010f877a0dece1317da</sys_scope>
+        <sys_update_name>sys_embedded_help_role_83125920f8403010f877a0dece13177e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-07 18:47:37</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
